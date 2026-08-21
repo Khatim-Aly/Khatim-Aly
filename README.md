@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<a href="mailto:alikhatimali@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="mailto:khatimaly@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://linkedin.com/in/......"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://x.com/..."><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 
